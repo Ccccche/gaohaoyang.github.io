@@ -9,7 +9,7 @@ tags: 技术文章
 * content
 {:toc}
 
-** 为什么选择了chromecast
+## 为什么选择了chromecast
 
 老板想在大电视上看我们其他同事的工单，就让我开发了个看工单的小工具（东西不难，所有工单都是从服务器获取的）。
 后来程序写的差不多了，他又让我去想个法子把电脑屏幕的东西投到电视上去，我第一个想法就是拉hdmi线然后分线到
@@ -18,7 +18,7 @@ tags: 技术文章
  adopter，但是chromecast比较便宜而且我还发现chromecast可以以一个主机作为信号源发送给多个电视机信号，
 综上就选择了chromecast。
 
-** chromecast安装
+## chromecast安装
 
 chromecast随机赠送了一个说明书，可那个说明书可太真实了，一共两步:
 1. 插上Chromecast
@@ -28,7 +28,7 @@ chromecast随机赠送了一个说明书，可那个说明书可太真实了，�
 电脑后一打开Chrome打开cast以后他居然又搜到了这个Chromecast，我都迷了。绕了这么一大圈没想到最后还成了。今晚
 回家拜一拜超越妹妹。。。
 
-** chromecast一些吐槽
+## chromecast一些吐槽
 
 1. 安装说明书写的太烂了。。。 搭chromecast的时候只能用手机搭，不能用电脑。
 2. 安装装到最后了才告诉我说Wi-Fi router有问题安装失败？
